@@ -1,1 +1,40 @@
 computer is a technology
+ 
+    LEA DX,M3
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,M4
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,MS5
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,M5
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,M6
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,M7
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,MR1
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,MR2
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,MR2
+    MOV AH,9
+    INT 21H
+    
+    LEA DX,M2
+    MOV AH,9
